@@ -1,3 +1,5 @@
 "# statuspagebackend" 
-`npm install`
- `nodemone`
+
+
+## `npm install` For install 
+ ## ` nodemone` For run the app
