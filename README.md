@@ -1,3 +1,3 @@
 "# statuspagebackend" 
-# `npm install`
-# `nodemone`
+`npm install`
+ `nodemone`
